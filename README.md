@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Muhammad Hasan
+Hi 👋, I'm Abdul Rehman
 </h1>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer • Technical Trainer • JavaScript Enthusiast
+Full Stack MERN Developer • JavaScript Enthusiast
 </h3>
 
 <p align="center">
