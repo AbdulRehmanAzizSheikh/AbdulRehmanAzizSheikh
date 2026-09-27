@@ -1,43 +1,41 @@
-<!-- ========================================= -->
-<!--              HASAN X | HERO               -->
-<!-- ========================================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Abdul%20Rehman&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Content%20Creator&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:00E5FF,100:8B5CF6&text=Abdul%20Rehman&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Freelancer&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Abdul Rehman
-</h1>
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • JavaScript Enthusiast
+Full-Stack MERN Developer • Freelancer • Karachi, Pakistan
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Teaching+Programming+Through+YouTube;Always+Learning+Something+New;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Secure+APIs+%26+Real-time+Apps;3D+%26+Interactive+Web+Experiences;Available+for+Freelance+Work;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
 
-<a href="mailto:codermhasan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:coderabdulrehman@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/HasanCoder66">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/AbdulRehmanAzizSheikh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hasancoder66/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/abdulrehmanazizsheikh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.youtube.com/@muhammadhasandev">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<a href="https://x.com/AbdulRehmanMERN">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
-<a href="https://hasancoder66.github.io/Professional-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://www.abdulrehman.sbs/">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://wa.me/923181272010">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </p>
@@ -47,11 +45,12 @@ Full Stack MERN Developer • JavaScript Enthusiast
 ## 👨‍💻 About Me
 
 ```diff
-+ 🚀 Passionate Full Stack MERN Developer
-+ 💼 Building scalable web applications
-+ 🎓 Technical Trainer & Programming Mentor
-+ 🎥 Coding Content Creator on YouTube
-+ 🌱 Currently mastering Next.js, TypeScript & Cloud
++ 🚀 Full-Stack MERN Developer based in Karachi, Pakistan
++ 💼 Building secure APIs & real-time applications (PostHub, MaintainIQ, E-Commerce)
++ 🌐 Immersive 3D & interactive web experiences with Three.js / React Three Fiber
++ 🤖 AI integrations & Telegram bots / Mini Apps
++ 🎓 Student at SMIT (Saylani Mass IT Training) — Modern Web Application Development
++ 🌱 Currently mastering Next.js, TypeScript & DevOps
 + 💡 Love solving real-world problems through code
 ```
 
@@ -61,52 +60,43 @@ Full Stack MERN Developer • JavaScript Enthusiast
 
 ### 🚀 Current Focus
 
-- ⚛️ Advanced React
-- ▲ Next.js
+- ⚛️ React & Next.js
 - 📘 TypeScript
-- ☁️ Cloud Deployment
-- 🧠 System Design
-- 🏗️ Backend Architecture
+- 🟢 Node.js / Express.js
+- 🗄️ MongoDB & Supabase
+- 🤖 AI & Telegram Bots
+- ☁️ Deployment & CI/CD
 
 </td>
-
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanAzizSheikh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
 
-<!-- ======================================================= -->
-<!--                     TECH STACK                           -->
-<!-- ======================================================= -->
+---
 
 # 💻 Tech Stack
 
 <div align="center">
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
-
----
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 ---
 
-## 🛠 Programming Languages
+## ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postman" />
 
 ---
 
-## ☁️ Tools & Technologies
+## 🛠 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,illustrator" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma" />
 
 ---
 
@@ -118,7 +108,7 @@ Full Stack MERN Developer • JavaScript Enthusiast
 
 ---
 
-# 🚀 What I Love Building
+# 🚀 What I Build
 
 <table>
 
@@ -130,12 +120,11 @@ Full Stack MERN Developer • JavaScript Enthusiast
 
 - Responsive Websites
 - Modern UI/UX
-- React Applications
+- Next.js Applications
 - Admin Dashboards
-- Portfolio Websites
-- Landing Pages
+- 3D & Interactive Web (Three.js)
+- Portfolio & Landing Pages
 - API Integration
-- Redux Toolkit
 
 </td>
 
@@ -144,13 +133,12 @@ Full Stack MERN Developer • JavaScript Enthusiast
 ### ⚙️ Backend
 
 - REST APIs
-- Authentication
-- JWT
-- OTP Verification
-- MongoDB
+- Authentication (JWT)
+- Telegram Bots & Mini Apps
+- MongoDB / Supabase
 - Express.js
-- CRUD Operations
-- MVC Architecture
+- Real-time Features
+- Payment Integration
 
 </td>
 
@@ -160,19 +148,218 @@ Full Stack MERN Developer • JavaScript Enthusiast
 
 ---
 
-# 📚 Libraries & Frameworks
+# 🛍️ Freelance Services
 
-| Category | Technologies |
-|-----------|-------------|
-| UI Libraries | Material UI, Bootstrap, Tailwind CSS |
-| State Management | Redux Toolkit |
-| Routing | React Router DOM |
-| Database | MongoDB |
-| Backend | Express.js |
-| Runtime | Node.js |
-| Authentication | JWT, Firebase |
-| API | Axios, Fetch |
-| Version Control | Git & GitHub |
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Services I Offer
+
+- **Full-Stack Development** — MVP builds & features
+- **AI & Telegram Bots** — RAG, chatbots, Mini Apps
+- **GitHub & DevOps** — CI/CD, deployments
+- **3D & Interactive Web** — Three.js experiences
+- **E-commerce & Payments** — Store & checkout flows
+
+</td>
+<td width="50%">
+
+### ✅ Why Work With Me
+
+- 30+ projects delivered
+- Onsite (Karachi) & Remote (PKT/GMT+5)
+- Clean, documented, production-ready code
+- Fast communication & on-time delivery
+
+<br>
+
+<a href="https://www.abdulrehman.sbs/services">
+<img src="https://img.shields.io/badge/View%20Services-00E5FF?style=for-the-badge" alt="Services"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+Production-ready projects showcasing Full Stack Web Development with the MERN stack.
+</p>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💼 MaintainIQ
+
+Enterprise-grade full-stack management platform with JWT authentication, QR code generation, Cloudinary image uploads, and a real-time analytics dashboard powered by Recharts.
+
+### 🛠 Tech Stack
+
+Next.js 16 • MongoDB • JWT • Cloudinary • Recharts • Nodemailer
+
+<br>
+
+<a href="https://maintainiq.abdulrehman.sbs">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/MaintainIQ">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🤖 Helplytics AI
+
+AI-powered analytics SaaS platform with secure user authentication, data visualization dashboards, and protected RESTful API endpoints.
+
+### 🛠 Tech Stack
+
+React • Vite • Supabase • Express.js • MongoDB • JWT
+
+<br>
+
+<a href="https://helplytics-ai.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/Helplytics-AI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Karachi Fiber Doors
+
+Immersive 3D business website with interactive Three.js animations, React Three Fiber, smooth Framer Motion page transitions, and contact form automation.
+
+### 🛠 Tech Stack
+
+Next.js • Three.js • React Three Fiber • Framer Motion • Nodemailer
+
+<br>
+
+<a href="https://karachi-fiber-doors.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/karachi-fiber-doors">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💬 PostHub
+
+Full-stack social media platform with user authentication, post/blog publishing, likes, and real-time profile management.
+
+### 🛠 Tech Stack
+
+React • Supabase • CSS3 • RESTful API
+
+<br>
+
+<a href="https://smitposthubsupabase.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/smitPostHubSupabase">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 Online Clinic
+
+Healthcare management platform with appointment booking, patient management, and a modern responsive interface.
+
+### 🛠 Tech Stack
+
+Next.js • TypeScript • Tailwind CSS
+
+<br>
+
+<a href="https://online-clinic-rho.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/online-clinic">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## ⌚ ROLEX Showcase
+
+Premium luxury watch showcase website with elegant UI, smooth animations, and a fully responsive layout.
+
+### 🛠 Tech Stack
+
+HTML5 • CSS3 • JavaScript • Responsive Design
+
+<br>
+
+<a href="https://rolex-watch-premium.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Live-00E5FF?style=for-the-badge" alt="Live"/>
+</a>
+
+<a href="https://github.com/AbdulRehmanAzizSheikh/ROLEX">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Education & Certifications
+
+| Institution | Course | Duration | Status |
+|-------------|--------|----------|--------|
+| 🎓 Saylani Mass IT Training (SMIT) | Modern Web Application Development | Feb 2025 – Present | 🟡 In Progress |
+| 🎓 Cisco Networking Academy | Web Development (HTML, CSS, JavaScript) | Oct 2024 – Dec 2024 | 🟢 Certified |
 
 ---
 
@@ -180,25 +367,13 @@ Full Stack MERN Developer • JavaScript Enthusiast
 
 ```text
 ✅ Master React
-
 ✅ Master Node.js
-
 ✅ Master MongoDB
-
 🟨 Become Expert in Next.js
-
 🟨 Master TypeScript
-
 ⬜ Learn Docker
-
 ⬜ Learn AWS
-
-⬜ Learn Kubernetes
-
 ⬜ Open Source Contributions
-
-⬜ Crack Product Based Company
-
 ⬜ Build SaaS Products
 ```
 
@@ -207,7 +382,7 @@ Full Stack MERN Developer • JavaScript Enthusiast
 # 🌱 Currently Exploring
 
 ```javascript
-const hasan = {
+const abdulRehman = {
     learning: [
         "Next.js",
         "TypeScript",
@@ -218,10 +393,10 @@ const hasan = {
     ],
 
     interests: [
-        "Web Development",
-        "Open Source",
-        "Teaching",
-        "Content Creation"
+        "Full-Stack Development",
+        "3D Web Experiences",
+        "AI Integration",
+        "Freelancing"
     ],
 
     lifeGoal: "Become a World-Class Software Engineer 🚀"
@@ -230,293 +405,34 @@ const hasan = {
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HasanCoder66&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- ☕ Coffee makes debugging easier.
-- 🎧 Music + Coding = Productivity.
-- 💡 I enjoy teaching programming.
-- 🚀 I believe consistency beats motivation.
-- 🌙 Night coding is my favorite.
-
----
-
-# 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-
-<!-- ======================================================= -->
-<!--                  FEATURED PROJECTS                      -->
-<!-- ======================================================= -->
-
-# 🚀 Featured Projects
-
-<p align="center">
-Here are some of my favorite projects that showcase my skills in Full Stack Web Development.
-</p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 💼 HiringMine Clone
-
-A modern job portal built using the MERN Stack where users can browse jobs, authenticate, and manage their profiles.
-
-### 🚀 Features
-
-- JWT Authentication
-- Protected Routes
-- Redux Toolkit
-- Job Dashboard
-- Search & Filter
-- Responsive UI
-- REST APIs
-- MongoDB Database
-
-### 🛠 Tech Stack
-
-React • Redux • Node • Express • MongoDB • Tailwind
-
-<br>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/🌐 Live Demo-1F6FEB?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td>
-
-<img src="assets/hiringmine.png" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="assets/authentication.png" width="100%">
-
-</td>
-
-<td width="50%">
-
-# 🔐 Authentication System
-
-Complete Authentication System using Node.js & Express.
-
-### Features
-
-- Signup
-- Login
-- Logout
-- JWT
-- Refresh Token
-- OTP Verification
-- Nodemailer
-- Password Encryption
-- Authorization
-- Protected APIs
-
-### Stack
-
-Node.js
-
-Express.js
-
-MongoDB
-
-JWT
-
-Bcrypt
-
-Nodemailer
-
-<br>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-# 🌐 Portfolio Website
-
-A modern personal portfolio to showcase projects, skills, and experience.
-
-### Features
-
-- Responsive
-- Dark Mode
-- Smooth Animation
-- Contact Form
-- Project Gallery
-- Resume Download
-
-### Stack
-
-React
-
-Tailwind
-
-Framer Motion
-
-</td>
-
-<td>
-
-<img src="assets/portfolio.png" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="assets/scratch.png" width="100%">
-
-</td>
-
-<td width="50%">
-
-# 🎮 Scratch Games
-
-Educational games developed for beginner students to learn programming concepts in a fun way.
-
-### Includes
-
-- Maze Game
-- Catch Game
-- Quiz Game
-- Racing Game
-- Animation Projects
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📦 More Projects
-
-| Project | Tech |
-|----------|------|
-| 🍔 Restaurant Website | HTML CSS JS |
-| 🧮 Calculator | JavaScript |
-| 📝 Todo App | React |
-| 🛒 Ecommerce UI | React |
-| 🎬 Movie App | React API |
-| 🌤 Weather App | JavaScript API |
-| 📖 Notes App | MERN |
-| 💬 Chat UI | React |
-| 👨‍💻 Admin Dashboard | React + Redux |
-| 📊 CRUD System | MERN |
-
----
-
-# 🌟 Open Source
-
-I enjoy learning from the open-source community and continuously improving my projects through best practices and clean architecture.
-
-Future Goals:
-
-- Open Source Contributions
-- Build NPM Packages
-- Create React Libraries
-- Build SaaS Products
-- Mentor Developers
-
----
-
-# 📈 Development Journey
-
-```text
-2022 ▓▓░░░░░░░░ HTML CSS
-
-2023 ▓▓▓▓▓░░░░ JavaScript
-
-2024 ▓▓▓▓▓▓▓░ React
-
-2025 ▓▓▓▓▓▓▓▓ MERN Stack
-
-2026 ▓▓▓▓▓▓▓▓ Next.js + TypeScript
+# 📌 Current Status
+
+```javascript
+const currentStatus = {
+    role: "Full-Stack MERN Developer",
+
+    location: "Karachi, Pakistan (PKT / GMT+5)",
+
+    availability: "Freelance & Contract Work",
+
+    learning: [
+        "Next.js",
+        "TypeScript",
+        "DevOps",
+        "Cloud Deployment"
+    ],
+
+    availableFor: [
+        "Frontend",
+        "Backend",
+        "Full-Stack",
+        "Freelance",
+        "Collaboration"
+    ]
+}
 ```
 
 ---
-
-# 💻 Current Workspace
-
-```yaml
-OS: Windows 11
-
-Editor: VS Code
-
-Browser: Chrome
-
-Terminal: Git Bash
-
-Version Control: Git
-
-Database: MongoDB
-
-API Testing: Postman
-
-Design: Figma
-```
-
-<!-- ======================================================= -->
-<!--                GITHUB ANALYTICS                         -->
-<!-- ======================================================= -->
 
 # 📊 GitHub Analytics
 
@@ -530,9 +446,9 @@ Design: Figma
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasanCoder66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanAzizSheikh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanCoder66&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanAzizSheikh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -542,7 +458,17 @@ Design: Figma
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanCoder66&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanAzizSheikh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏅 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmanAzizSheikh&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </p>
 
@@ -552,7 +478,7 @@ Design: Figma
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanCoder66&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmanAzizSheikh&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -568,117 +494,45 @@ Design: Figma
 
 ---
 
-# 📅 GitHub Summary Cards
+# ⚡ Fun Facts
+
+- ☕ Coffee makes debugging easier.
+- 🌙 Night coding is my favorite.
+- 💡 I enjoy turning ideas into working products.
+- 🚀 I believe consistency beats motivation.
+- 🎯 Freelance work taught me deadlines & communication.
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**
+> — John Johnson
+
+---
+
+# 📬 Contact Me
 
 <p align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=github_dark"/>
+<a href="mailto:coderabdulrehman@gmail.com">
+<img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanCoder66&theme=github_dark"/>
+<a href="https://www.abdulrehman.sbs/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanCoder66&theme=github_dark"/>
+<a href="https://linkedin.com/in/abdulrehmanazizsheikh">
+<img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://wa.me/923181272010">
+<img src="https://img.shields.io/badge/📱 WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
 </p>
-
----
 
 <p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanCoder66&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanCoder66&theme=github_dark&utcOffset=5"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanCoder66&theme=tokyonight"/>
-
+⭐ If you like my work, consider starring my repositories!
 </p>
-
----
-
-# 📈 Weekly Development Breakdown
-
-```text
-JavaScript      ████████████████████ 80%
-
-React           ███████████████      65%
-
-Node.js         ███████████          50%
-
-MongoDB         █████████            45%
-
-TypeScript      █████                25%
-
-Next.js         ████                 20%
-```
-
----
-
-# 🔥 Coding Activity
-
-```text
-🌞 Morning      ███░░░░░░░░░░░░
-
-🌇 Afternoon    ███████░░░░░░░░
-
-🌙 Evening      ███████████░░░░
-
-🌃 Night        ███████████████
-```
-
----
-
-# 🏅 Milestones
-
-✔ MERN Stack
-
-✔ React Ecosystem
-
-✔ REST APIs
-
-✔ Authentication Systems
-
-✔ Responsive UI Development
-
-✔ Redux Toolkit
-
-✔ Technical Training
-
-⬜ Docker
-
-⬜ AWS
-
-⬜ Kubernetes
-
-⬜ Microservices
-
----
-
-# 📌 Current Status
-
-```javascript
-const currentStatus = {
-    role: "Full Stack MERN Developer",
-
-    location: "Pakistan",
-
-    learning: [
-        "Next.js",
-        "TypeScript",
-        "Cloud Deployment",
-        "Docker"
-    ],
-
-    workingOn: [
-        "HiringMine",
-        "Open Source",
-        "Teaching",
-        "Portfolio Improvements"
-    ],
-
-    availableFor: [
-        "Frontend",
-        "Backend",
-        "Freelance",
-        "Collaboration"
-    ]
-}
-```
