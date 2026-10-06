@@ -49,7 +49,7 @@ Full-Stack MERN Developer • Freelancer • Karachi, Pakistan
 + 💼 Building secure APIs & real-time applications (PostHub, MaintainIQ, E-Commerce)
 + 🌐 Immersive 3D & interactive web experiences with Three.js / React Three Fiber
 + 🤖 AI integrations & Telegram bots / Mini Apps
-+ 🎓 Student at SMIT (Saylani Mass IT Training) — Modern Web Application Development
++ 🎓 Trained at SMIT (Saylani Mass IT Training) — Modern Web Application Development (Completed Jul 2026)
 + 🌱 Currently mastering Next.js, TypeScript & DevOps
 + 💡 Love solving real-world problems through code
 ```
@@ -358,7 +358,7 @@ HTML5 • CSS3 • JavaScript • Responsive Design
 
 | Institution | Course | Duration | Status |
 |-------------|--------|----------|--------|
-| 🎓 Saylani Mass IT Training (SMIT) | Modern Web Application Development | Feb 2025 – Present | 🟡 In Progress |
+| 🎓 Saylani Mass IT Training (SMIT) | Modern Web Application Development | Feb 2025 – Jul 2026 | 🟢 Completed |
 | 🎓 Cisco Networking Academy | Web Development (HTML, CSS, JavaScript) | Oct 2024 – Dec 2024 | 🟢 Certified |
 
 ---
